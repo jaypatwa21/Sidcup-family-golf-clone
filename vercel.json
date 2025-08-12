@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "Assests/**": {
-      "maxDuration": 30
-    }
-  },
   "headers": [
     {
       "source": "/Assests/(.*)",
