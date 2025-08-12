@@ -1,5 +1,10 @@
 # 🏌️‍♂️ Sidcup Family Golf – Website Clone  
 
+## 🚀 Live Preview  
+
+[🔗 View Live Project](https://jaypatwa21.github.io/Sidcup-family-golf-clone/)  
+
+
 This is a **learning-based clone project** of the Sidcup Family Golf official website.  
 The aim of this project was to **practice HTML, CSS, JavaScript, GSAP animations, and responsive design techniques** while replicating the look and feel of a professional interactive website.  
 
@@ -40,12 +45,6 @@ The aim of this project was to **practice HTML, CSS, JavaScript, GSAP animations
 - Fully mobile-optimized  
 - Flexible grid and layout system  
 - Adaptive navigation for smaller screens  
-
----
-
-## 🚀 Live Preview  
-
-[🔗 View Live Project](https://USERNAME.github.io/REPO-NAME/)  
  
 
 ---
